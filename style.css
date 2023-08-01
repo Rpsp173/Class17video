@@ -13,6 +13,9 @@
     width: 20%;
     margin: auto;
 }
+.shadowx{
+    text-shadow: 2px 4px 8px #000000;
+}
 .brdr3{
     border-bottom: 5px solid #000;
     width: 30%;
