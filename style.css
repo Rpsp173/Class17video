@@ -3,7 +3,21 @@
     padding: 0;
     list-style: none;
 }
-
+.brdr{
+    border-bottom: 5px solid #000;
+    width: 20%;
+    margin: auto;
+}
+.brdr2{
+    border-bottom: 5px solid #a78e8e;
+    width: 20%;
+    margin: auto;
+}
+.brdr3{
+    border-bottom: 5px solid #000;
+    width: 30%;
+    margin: auto;
+}
 header{
     background-color: palevioletred;
 }
